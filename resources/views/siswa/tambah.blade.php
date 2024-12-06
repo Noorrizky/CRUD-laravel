@@ -18,7 +18,7 @@
     <label>Hobi</label>
     <input type="text" name="hobi" class="form-control mb-2" >
 
-    <button class="btn btn-primary">Tambah</button>
+    <button id="alertButton" class=" btn btn-primary">Tambah</button>
 
 </form>
 

@@ -10,5 +10,8 @@
     <h1 class="text-center mt-3">
         CRUD Laravel 11
     </h1>
+    <div class="text-center align-center">
+        <a class="btn btn-primary" href="{{route('siswa.tampil')}}">Masuk Form</a>
+    </div>
 </body>
 </html>
